@@ -30,17 +30,17 @@ keytool -keystore broker.ks -genkey -alias broker
 Enter keystore password:  
 Re-enter new password:  
 What is your first and last name?  
-  [Unknown]:  Jochen Cordes  
+  [Unknown]:  Luigi De Masi 
 What is the name of your organizational unit?  
-  [Unknown]:  RHC  
+  [Unknown]:  Extra  
 What is the name of your organization?  
-  [Unknown]:  Red Hat  
+  [Unknown]:  Extra  
 What is the name of your City or Locality?  
-  [Unknown]:  Frankfurt  
+  [Unknown]:  Pontedera  
 What is the name of your State or Province?  
-  [Unknown]:  NRW  
+  [Unknown]:  Pisa  
 What is the two-letter country code for this unit?  
-  [Unknown]:  de  
+  [Unknown]:  it  
 Is CN=Jochen Cordes, OU=RHC, O=Red Hat, L=Frankfurt, ST=Hessen, C=de correct?  
   [no]:  yes  
 Enter key password for <broker>  
